@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ForReddit</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<!--     <link rel="stylesheet" type="text/css" href="css/boxLoading.css">
+ -->    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/default.css">
+  </head>
+  <body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="row">
+          <div class="navbar-header full-width">
+
+              <a class="navbar-brand" href="#home">Reddit</a>
+
+              <div class="pull-right">
+                  <button type="button" class="btn btn-primary navbar-btn dropdown-toggle" id="btn_subreddit">
+                    r/all
+                  </button>
+              </div>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row" id="div_mainContent">
+
+
+
+      </div>
+    </div>
+
+    <div class="modal fade" id="modal_subreddit">
+      <div class="modal-dialog">
+        <div class="modal-content">
+
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <h4 class="modal-title">Choose your subreddit</h4>
+          </div>
+
+          <div class="modal-body">
+            <div class="input-group">
+              <span class="input-group-addon" id="span_rslash">r/</span>
+              <input type="search" class="form-control" placeholder="subreddit" aria-describedby="span_rslash" id="input_searchSubreddit">
+            </div>
+          </div>
+
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/default.js"></script>
+  </body>
+</html>

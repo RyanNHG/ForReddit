@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"address"
+			],
+			[
+				"addres",
+				"addresses"
+			],
+			[
+				"POST",
+				"POST_TYPE"
+			],
+			[
+				"on_",
+				"on_save_post"
+			],
+			[
+				"get_C",
+				"get_called_class"
+			],
+			[
+				"Tp",
+				"TpInputCustom"
+			],
+			[
+				"POS",
+				"POST_TYPE"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"value",
+				"value_is_string"
+			],
+			[
+				"ini",
+				"init_hooks"
+			],
+			[
+				"tp-po",
+				"tp-posttype-legend"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"PO",
+				"POST_TYPE"
+			],
+			[
+				"val",
+				"value_is_string"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"inc",
+				"include_once"
+			],
+			[
+				"METABOX_DIS",
+				"METABOX_DISPLAY_ORDER_KEY"
+			],
+			[
+				"mssq",
+				"mssql_connect"
+			],
+			[
+				"tpdata",
+				"tpdatabase"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"FE",
+				"FEATURE_COMMENT_PREFIX"
+			],
+			[
+				"FEA",
+				"FEATURE_SELECT_PREFIX"
+			],
+			[
+				"M",
+				"METABOX_NEIGHBORHOOD_KEY"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"btn-",
+				"btn-group"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"META",
+				"METABOX_FOOTNOTE_CB"
+			],
+			[
+				"MET",
+				"METABOX_PAGE_HEADING_KEY"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"METAB",
+				"METABOX_FOOTNOTE_CB"
+			],
+			[
+				"METABOX_PA",
+				"METABOX_PAGE_HEADING_KEY"
+			],
+			[
+				"NEIG",
+				"neighborhood_callback"
+			],
+			[
+				"find",
+				"find_home_desc_callback"
+			],
+			[
+				"METABOC_",
+				"METABOX_FOOTNOTE_CB"
+			],
+			[
+				"METABO",
+				"METABOX_NEIGHBORHOOD_CB"
+			],
+			[
+				"ME",
+				"METABOX_FEATURES_CB"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ryan/Code/ForReddit"
+	],
+	"file_history":
+	[
+		"/home/ryan/Desktop/tp-posttype-seo-neighborhood-old.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttype-test-hpl.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttype-seo-neighborhood.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-database.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-input-dropdown.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-input-single-line.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttype-home-page-link.php",
+		"/home/ryan/Code/TruepadPropertyPage/index.html",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttype-test.php",
+		"/home/ryan/Downloads/wordpress/Sublime Text 2/sublime_text",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttypes.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttype.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-posttype-home-page-link.html",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tp-functions.php",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/output.txt",
+		"/etc/odbc.ini",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/sql/getNeighborhoods.sql",
+		"/home/ryan/.bash_aliases",
+		"/var/www/html/wp-content/themes/twentyfifteen/tp/tpdatabase.py",
+		"/home/ryan/Downloads/wordpress/Vikings/vg-cpt-session.php",
+		"/home/ryan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/run/user/1000/gvfs/sftp:host=content.testpadweb.com,user=ryanhg/var/www/content.testpadweb.com/wp-content/themes/twentyfifteen/tp/tp-functions.php",
+		"/home/ryan/Code/wp-content/themes/twentyfifteen/tp/tp-posttype-seo-neighborhood.php",
+		"/var/log/auth.log",
+		"/home/ryan/.bashrc",
+		"/home/ryan/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/ryan/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/ryan/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ryan/Downloads/keys/id_ryanhg",
+		"/home/ryan/Downloads/keys/id_ryanhg.pub",
+		"/home/ryan/Code/NewProject",
+		"/home/ryan/Code/ForReddit/css/boxLoading.css",
+		"/home/ryan/Code/ForReddit/js/default.js",
+		"/home/ryan/Desktop/index.php",
+		"/home/ryan/.config/sublime-text-3/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add_meta_boxes",
+			"is->",
+			"id",
+			"context",
+			"e",
+			"33 42",
+			"context",
+			"url",
+			"_FEATURES",
+			"_DESC",
+			"FIND_HOME",
+			"tp_seo",
+			"PAGE_HEADING",
+			"5px ",
+			"btn-default",
+			"page_heading",
+			"FIND_HOME_DESC",
+			"footer",
+			"vg_session_button_title",
+			"_vg_session_title_key",
+			"vg_session_details_save_postdata",
+			"sanitize_",
+			"$nonce",
+			"vg_inner_custom_box_session_details_nonce",
+			"ftom_create_post_types",
+			"ftom",
+			"ftom_create_post_types",
+			"ftom_update_region_data",
+			"ssh",
+			"data.data.children",
+			"search",
+			"src=\"",
+			"btndropdown"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"on_admin_init",
+			"is->$",
+			"title",
+			"id",
+			"32 42",
+			"id",
+			"button_label",
+			"_GROUP_NAME",
+			"",
+			"DISPLAY_ORDER",
+			"tp_hpl",
+			"URL",
+			"4px",
+			"btn-link",
+			"features",
+			"find_home_desc",
+			"const METABOX_PAGE_HEADING_CB = 'page_heading_callback';",
+			"FOOTNOTE",
+			"NEIGHBORHOOD",
+			"FEATURES",
+			"FOOTNOTE",
+			"tp",
+			"posts",
+			"src=\"js/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "forreddit.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hom",
+				"tp-posttype-home-page-link.php"
+			],
+			[
+				"data",
+				"tp-database.php"
+			],
+			[
+				"drop",
+				"tp-input-dropdown.php"
+			],
+			[
+				"dro",
+				"tp-input-dropdown.php"
+			],
+			[
+				"singe",
+				"tp-input-single-line.php"
+			],
+			[
+				"posttypes",
+				"tp-posttypes.php"
+			],
+			[
+				"",
+				"tp-posttypes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

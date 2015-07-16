@@ -1,0 +1,32 @@
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+.navbar-header > .pull-right {
+    padding-right: 15px;
+}
+
+#btn_subreddit {
+    text-transform: lowercase;
+}
+
+body {
+    background-color: #e5e5e5;
+}
+
+.post_thumbnail {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.post_link > .glyphicon {
+    font-size: 50px;
+    color: darkgray;
+}
+
+.post .panel-body img {
+      max-width: 100%;
+}
